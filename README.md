@@ -1,18 +1,43 @@
-# 💫 About Me:
-- 🔭 I’m currently working on **Ethical Hacking and Coding in general**<br><br>- 🌱 I’m currently learning **Python,Javascript,C++ and Web Developing related things.**<br><br>- 👯 I’m looking to collaborate on **a Website**<br><br>- 🤝 I’m looking for help with **Python**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/DxlCode](https://github.com/DxlCode)<br><br>- ⚡ Fun fact **I like learning**<br>
+## 🚀 Technologies & Tools
 
+### Languages
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dxlcode&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dxlcode&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dxlcode&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
+![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
+![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
+![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Technologies & Frameworks
 
----
-[![](https://visitcount.itsvg.in/api?id=dxlcode&icon=3&color=1)](https://visitcount.itsvg.in)
+![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
+![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
+![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
+![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
+![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### DevOps & Tools
+
+![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
+![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
+![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
+![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
+![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
+![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
+![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
+![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
+![firebase](https://img.shields.io/badge/firebase-black?style=flat-square&logo=firebase)
+![gitkraken](https://img.shields.io/badge/gitkraken-black?style=flat-square&logo=gitkraken)
+
+## ⚡ GitHub Stats
+
+<p align="center">
+    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=Bit-Barron&hide_border=true&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=Bit-Barron&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bit-Barron&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+</p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Bit-Barron&theme=onedark&column=-1)
+
+#
